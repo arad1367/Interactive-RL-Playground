@@ -142,7 +142,7 @@ These simulations demonstrate several key reinforcement learning concepts:
 
 ## Future Work
 
-![ThreeJS Project](1.png)
+![ThreeJS Project](3.png)
 
 Future development plans include:
 
